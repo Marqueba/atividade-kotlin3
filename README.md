@@ -1,4 +1,4 @@
-# :memo: Exercícios Kotlin - Semana 4
+# :memo: Exercícios Kotlin - Semana 3 & 4
 
 ### Temas abordados na aula
 <hr>
